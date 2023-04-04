@@ -1,0 +1,2 @@
+1. Always make a virtual environment and do all the installation and coding stuff there.
+2. Install all the requirements from requirements.txt
